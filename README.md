@@ -1,7 +1,8 @@
-### Hi there. Nice to meet you! 👋
+### Hi! I'm ROBSON.JUNIOR 👋
 
-<!--
-**robsongajunior/robsongajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Social media :mailbox_with_no_mail:
 
-- 🔭 I’m currently working as Software Engineering;
--->
+[![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/robson.ga.junior/)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/robsongajunior/)
+
+![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=robsongajunior&show_icons=true&theme=blue-green)
