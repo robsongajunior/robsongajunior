@@ -40,7 +40,8 @@ Responsible to develop RUM module to collect data.
 ![Serverless](https://img.shields.io/badge/-serverless-05122A?style=flat&logo=serverless)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![CICD](https://img.shields.io/badge/-CICD-05122A?style=flat&logo=cdcd)&nbsp;
-![CICD](https://img.shields.io/badge/-API-05122A?style=flat&logo=api)&nbsp;
+![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=api)&nbsp;
+![Innovation](https://img.shields.io/badge/-Innovation-05122A?style=flat&logo=innovation)&nbsp;
 
 ![Contribute history](https://activity-graph.herokuapp.com/graph?username=robsongajunior&custom_title=robsongajunior's%20Contribution%20Graph&theme=react-dark)&nbsp;
 
