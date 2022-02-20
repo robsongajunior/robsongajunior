@@ -1,6 +1,6 @@
 # Hi,<br>I'm ROBSON.JUNIOR 👋
 
-A Brazilian guy working coding sinze 2014.
+Brazilian guy working coding sinze 2014.
 <br>
 Senior Software Development Engineer at [Azion Technologies](https://www.azion.com/en/). 
 
