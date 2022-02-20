@@ -43,6 +43,7 @@ Responsible to develop RUM module to collect data.
 ## Articles and Talks
 - [Medium](https://medium.com/@robsongajunior)
 - [Speaker Deck](https://speakerdeck.com/robsongajunior)
+- [Disabled Personal Website](https://robsongajunior.github.io/)
 
 > **NOTE**: I talk about [JAM Stack](https://www.azion.com/en/search-result/?q=JAMStack) into [Azion Blog](https://www.azion.com/en/search-result/?q=JAMStack)!
 
