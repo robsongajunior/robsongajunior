@@ -7,6 +7,9 @@ Senior Software Development Engineer at [Azion Technologies](https://www.azion.c
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=robsongajunior&show_icons=true&theme=blue-green)
 
 ## Worked on
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - **Marketing Engineering:** (current)
 Responsible for all projetos involving blog/site/careers portal innovating, proposing changes and improvements. Also responsible to build and integrating system, api's, technologies researches and tools to reach all data information to connect with another internal teams.
 
@@ -20,7 +23,8 @@ Responsible to develop and architecture building tools to accelerate and scale t
 - **Routing Services Team:** 
 Responsible to develop RUM module to collect data.
 
-## Articles && Talks
+
+## Articles and Talks
 - [Medium](https://medium.com/@robsongajunior)
 - [Speaker Deck](https://speakerdeck.com/robsongajunior)
 
