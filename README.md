@@ -25,6 +25,7 @@ Responsible to develop and architecture building tools to accelerate and scale t
 - **Routing Services Team:** 
 Responsible to develop RUM module to collect data.
 
+![JAMStack](https://img.shields.io/badge/-JAMStack-05122A?style=flat&logo=jamstack)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
