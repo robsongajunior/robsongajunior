@@ -6,6 +6,8 @@ Brazilian guy working coding sinze 2014.
 <br>
 Senior Software Development Engineer at [Azion Technologies](https://www.azion.com/en/). 
 
+> <small>Ex-[Terra Netoworks](https://www.terra.com.br/) Software Engineer</small>
+
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=robsongajunior&show_icons=true&theme=blue-green)
 
 ## Worked on
