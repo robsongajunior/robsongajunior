@@ -1,14 +1,4 @@
 # Hi,<br>I'm ROBSON.JUNIOR 👋
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Tests](https://img.shields.io/badge/-Tests-05122A?style=flat&logo=tests)
-
 
 Brazilian guy working coding sinze 2014.
 <br>
@@ -33,7 +23,19 @@ Responsible to develop and architecture building tools to accelerate and scale t
 - **Routing Services Team:** 
 Responsible to develop RUM module to collect data.
 
-![Contribute history](https://activity-graph.herokuapp.com/graph?username=robsongajunior&custom_title=robsongajunior's%20Contribution%20Graph&theme=react-dark)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![serverless](https://img.shields.io/badge/-serverless-05122A?style=flat&logo=serverless)&nbsp;
+![CICD](https://img.shields.io/badge/-CICD-05122A?style=flat&logo=cdcd)&nbsp;
+
+![Contribute history](https://activity-graph.herokuapp.com/graph?username=robsongajunior&custom_title=robsongajunior's%20Contribution%20Graph&theme=react-dark)&nbsp;
 
 ## Articles and Talks
 - [Medium](https://medium.com/@robsongajunior)
