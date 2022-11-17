@@ -14,8 +14,11 @@ Senior Software Development Engineer at [Azion Technologies](https://www.azion.c
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- **Marketing Engineering:** (current)
-Responsible for all projetos involving blog/site/careers portal innovating, proposing changes and improvements. Also responsible to build and integrating system, api's, technologies researches and tools to reach all data information to connect with another internal teams.
+- **Experience Engineering:** (current)
+Responsible for all projetos involving blog/site/careers portal innovating, proposing changes and improvements. Delivering value for the Developers comunity and Global visualization data!
+
+- **Marketing Engineering:**
+Also responsible to build and integrating system, api's, technologies researches and tools to reach all data information to connect with another internal teams.
 
 - **Marketing Team:** 
 Responsible for more than 670 pages and helping and accelerating the development and deployment of Azion communication tools.
