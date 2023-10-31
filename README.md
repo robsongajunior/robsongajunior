@@ -27,7 +27,7 @@ Responsible for all projects involving blog/site/careers portal innovating, prop
 Also responsible to build and integrating system, api's, technologies researches and tools to reach all data information to connect with another internal teams.
 
 - **Marketing Team:** 
-Responsible for more than 670 pages and helping and accelerating the development and deployment of Azion communication tools.
+Responsible for more than 1500 pages and helping and accelerating the development and deployment of Azion communication tools.
 
 
 - **Core Services Team:**
