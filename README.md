@@ -6,7 +6,7 @@
 
 Brazilian programmer coding professionally since 2014.
 <br>
-Senior Software Development Engineer at [Azion Technologies](https://www.azion.com/en/). 
+Software Engineer Senior at [Azion Technologies](https://www.azion.com/en/). 
 
 - Ex [Terra Networks](https://www.terra.com.br/) Software Engineer;
 
