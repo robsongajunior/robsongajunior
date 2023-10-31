@@ -17,8 +17,11 @@ Senior Software Development Engineer at [Azion Technologies](https://www.azion.c
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- **Experience Engineering:** (current)
-Responsible for all projetos involving blog/site/careers portal innovating, proposing changes and improvements. Delivering value for the Developers comunity and Global visualization data!
+- **UX Engineering:** (current)
+Team responsible for all projects involving DeveloperExperience/UserExperience/Front-End.The maintainability, inovation and new development are process for UXE;
+
+- **Experience Engineering:**
+Responsible for all projects involving blog/site/careers portal innovating, proposing changes and improvements. Delivering value for the Developers comunity and Global visualization data!
 
 - **Marketing Engineering:**
 Also responsible to build and integrating system, api's, technologies researches and tools to reach all data information to connect with another internal teams.
