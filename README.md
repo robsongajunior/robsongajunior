@@ -13,8 +13,6 @@ Software Engineer Senior at [Azion Technologies](https://www.azion.com/en/).
 
 > Ex [Terra Networks](https://www.terra.com.br/) Software Engineer;
 
-![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=robsongajunior&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsongajunior&hide_progress=true)
 
 ## Worked on
 
