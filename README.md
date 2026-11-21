@@ -1,4 +1,7 @@
 # Hi,<br>I'm ROBSON.JUNIOR 👋
+
+<img width="2172" height="724" alt="Born to Build and Deliver (1)" src="https://github.com/user-attachments/assets/e5bec9d1-af0c-4b8b-a2fa-9e705ac1c0f0" />
+
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/robson.ga.junior/)
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/robsongajunior/)
 
